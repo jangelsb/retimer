@@ -19,5 +19,5 @@ This policy is effective as of 2023-01-16
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me <a href="mailto:nextcalc.feedback@gmail@@@com?subject=next.calc support website"
    onmouseover="this.href=this.href.replace('@@@','.')">
-   via email
-</a>.
+   via email.
+</a>
